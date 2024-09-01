@@ -7,6 +7,14 @@
   - [Project i made](#project)
   - [Description](#description)
   - [Installation](#install)
+  - [Usage](#usage)
+  - [Credits](#credits)
 
 # Installation
-- Install by clicking to download an open t
+- Install by running : '''bash
+
+# Usage
+- Can be viewed.
+
+# Credits
+- This project was done by me.
